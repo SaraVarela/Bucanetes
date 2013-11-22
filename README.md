@@ -1,4 +1,4 @@
 Bucanetes
 =========
 
-Script of the ecological niche model for Bucanetes githagineus
+R-script of the ecological niche model for Bucanetes githagineus
